@@ -1,0 +1,7 @@
+- root
+  - folder1
+    - section1.md
+    - section2.md
+  - folder2
+    - section3.md
+    - section4.md
